@@ -8,7 +8,8 @@ Junior programmer Python
 Interests in: Data science, data analysis and data engineering
 
 ## Status in github
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=kevennchaves)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=kevennchaves&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevennchaves&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Follow me
 
