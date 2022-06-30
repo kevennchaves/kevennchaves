@@ -4,7 +4,7 @@
 - 💞️ Programming
 - 📚 Graduando em Engenharia de computação
 
-Junior programmer Python;
+Junior data scientist;
 Interests in: Data science, data analysis and data engineering
 
 ## Status in github
