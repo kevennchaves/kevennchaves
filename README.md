@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @kevennchaves 
 
-<text color='red> <b> ABOUT ME </b> </text>
+<font color="green"> <b> ABOUT ME </b> </font>
 
 - 💞️ Programming
 - 📚 Majoring in Computer Engineering 9th/10th
