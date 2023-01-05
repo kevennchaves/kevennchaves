@@ -1,8 +1,11 @@
-# 👋 Hi, I’m @kevennchaves
+# 👋 Hi, I’m @kevennchaves 
 
-- 🌱 Foco e paixão 
+<color='red> <b> ABOUT ME </b> </color>
+
 - 💞️ Programming
-- 📚 Graduando em Engenharia de computação
+- 📚 Majoring in Computer Engineering 9th/10th
+- 🌐 Discovery news cities and places is my objective
+- 💪🏽 At the moment my focus is in Data science, my passion.
 
 Junior data scientist;
 Interests in: Data science, data analysis and data engineering
