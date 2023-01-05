@@ -7,12 +7,16 @@
 - 🌐 Discovery news cities and places is my objective
 - 💪🏽 At the moment my focus is in Data science, my passion.
 
-### Student at ALURA
-Junior data scientist;
+### Student at UFPA (Federal University of Pará)
+- Majoring in Computer Engineering 9th/10th
+
+### Student at Alura -  since 2022 - (www.alura.com.br)
+- Data science training. 
+- 
 Interests in: Data science, data analysis and data engineering
 
 ## Status in github
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=kevennchaves&show_icons=true&theme=merko)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevennchaves&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Follow me
