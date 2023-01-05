@@ -1,12 +1,13 @@
 # 👋 Hi, I’m @kevennchaves 
 
-<font color="green"> <b> ABOUT ME </b> </font>
+## <font color="green"> <b> ABOUT ME </b> </font>
 
 - 💞️ Programming
 - 📚 Majoring in Computer Engineering 9th/10th
 - 🌐 Discovery news cities and places is my objective
 - 💪🏽 At the moment my focus is in Data science, my passion.
 
+### Student at ALURA
 Junior data scientist;
 Interests in: Data science, data analysis and data engineering
 
