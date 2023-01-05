@@ -9,14 +9,26 @@
 
 ### Student at UFPA (Federal University of Pará)
 - Majoring in Computer Engineering 9th/10th
+- Completion of course work in Data Science
+- Finish in 2023.
 
 ### Student at Alura -  since 2022 - (www.alura.com.br)
-- Data science training. 
-- 
-Interests in: Data science, data analysis and data engineering
+- Data Science Training.
+- Python Training.
+- SQL Training.
+- ML Training.
+
+#### Interests:
+- Data Science;
+- Data Analysis;
+- Data Engineering;
 
 ## Status in github
-
+<div>
+<a href="https://github.com/kevennchaves">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevennchaves&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevennchaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevennchaves&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Follow me
