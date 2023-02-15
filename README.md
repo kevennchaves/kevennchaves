@@ -12,7 +12,7 @@
 - Completion of course work in Data Science
 - Finish in 2023.
 
-### Student at Alura -  since 2022 - (www.alura.com.br)
+### Data Science Student 
 - Data Science Training.
 - Python Training.
 - SQL Training.
