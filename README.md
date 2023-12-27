@@ -3,14 +3,13 @@
 ## <font color="green"> <b> ABOUT ME </b> </font>
 
 - 💞️ Programming
-- 📚 Majoring in Computer Engineering 9th/10th
+- 📚 Computer Engineering
+- 🌐 System support analyst
 - 🌐 Discovery news cities and places is my objective
 - 💪🏽 At the moment my focus is in Data science, my passion.
 
 ### Student at UFPA (Federal University of Pará)
-- Majoring in Computer Engineering 9th/10th
-- Completion of course work in Data Science
-- Finish in 2023.
+- Computer Engineering
 
 ### Data Science Student 
 - Data Science Training.
